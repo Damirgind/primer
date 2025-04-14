@@ -41,7 +41,7 @@ let PERSONDATA = {
 
 let DATARECORDS = {}
 
-// ------------
+// -----------
 // Установка команд для бота
 bot.api.setMyCommands([
 	{
